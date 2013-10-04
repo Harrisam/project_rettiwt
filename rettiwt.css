@@ -1,5 +1,5 @@
 body{
-	background-image: url(https://twimg0-a.akamaihd.net/profile_background_images/378800000032938801/8c27851ed3aa88e8d50eb070eaacfe95.jpeg);
+	/*background-image: url(https://twimg0-a.akamaihd.net/profile_background_images/378800000032938801/8c27851ed3aa88e8d50eb070eaacfe95.jpeg);*/
 	background-position: left 40px;
 		background-position-x: 0%;
 		background-position-y: 40px;
@@ -71,19 +71,6 @@ body{
 .global-nav{
 	text-align: center;
 
-}
-
-.container{
-	width: 865px;
-	text-align: center;
-	position: relative;
-	margin-top: 0px;
-	margin-right: 284px;
-	display: block;
-	margin-left: 284px;
-	margin-bottom: 0px;
-	line-height: 28px;
-	height: 28px;  
 }
 
 
