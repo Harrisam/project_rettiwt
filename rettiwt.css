@@ -1,0 +1,100 @@
+body{
+	background-image: url(https://twimg0-a.akamaihd.net/profile_background_images/378800000032938801/8c27851ed3aa88e8d50eb070eaacfe95.jpeg);
+	background-position: left 40px;
+		background-position-x: 0%;
+		background-position-y: 40px;
+	background-attachment: fixed;
+	background-repeat: repeat;
+		background-position-x: repeat;
+		background-position-y: repeat;
+	background-color: #66C1DB;
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+		body, label,input, textarea, select, button - "Helvetica Neue", Arial, sans-serif
+	font-size: 14px;
+	height: 100%;
+	line-height: 18px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	overflow-y: scroll;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	opacity: 2;
+}
+
+
+.topbar{
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,.30);
+	box-shadow: 0 3px 6px rgba(0,0,0,.25);
+	background-color: #AE7BCE;
+	display: block;
+	height: 40px;
+	width: 1434;
+	z-index: 1000;
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+}
+
+.banners{
+	width: auto;
+	display: block;
+	color: #FCDE59;
+	font-size: 14px;
+}
+
+.global-nav{
+	position: relative;
+	width: 100%;
+	height: 40px;
+	background-position: 0px 0px;
+	background-color: #DF8962;
+	background-image: url(https://abs.twimg.com/a/1380824991/t1/img/twitter_web_sprite_bgs.png);
+	background-repeat: repeat-x;
+	line-height: 18px;
+	width: 1434;
+	opacity: 0.6;
+}
+
+.global-nav-inner{
+	color: #FCDE59;
+	display: block;
+	height: 28px;
+	line-height: 18px;
+	width: 1434;
+}
+
+.global-nav{
+	text-align: center;
+
+}
+
+.container{
+	width: 865px;
+	text-align: center;
+	position: relative;
+	margin-top: 0px;
+	margin-right: 284px;
+	display: block;
+	margin-left: 284px;
+	margin-bottom: 0px;
+	line-height: 28px;
+	height: 28px;  
+}
+
+
+
+h2{
+	margin-top: 150px;
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+
