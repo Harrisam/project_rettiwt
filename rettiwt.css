@@ -40,6 +40,11 @@ body{
 	left: 0;
 }
 
+.topbar .wrapper{
+
+
+}
+
 .banners{
 	width: auto;
 	display: block;
@@ -72,7 +77,60 @@ body{
 	text-align: center;
 
 }
+header {
 
+	background: black;
+}
+header h1 {
+	display: inline;
+	margin: 0;
+	padding: 0;
+	width: 10%;
+}
+header img {
+	vertical-align: middle;
+	margin-left: 25%;
+}
+
+nav {
+	display: inline;
+}
+nav ul {
+	display: inline;
+	margin: 0;
+	padding: 0;
+	margin-left: 15%;
+}
+nav ul li {
+	display: inline;
+}
+
+nav li a{
+	color: rgb(255, 255, 255);
+	cursor: auto;
+	display: inline;
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	height: auto;
+	line-height: 11px;
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+	text-align: left;
+	text-shadow: rgba(0, 0, 0, 0.49);
+	width: auto;
+	text-decoration: none;
+	margin-left: 5px;
+}
+
+.nav-icon{
+	background-image:url(https://abs.twimg.com/a/1380824991/t1/img/twitter_web_sprite_icons.png);
+}
+
+.container{
+	color: salmon;
+}
 
 
 h2{
