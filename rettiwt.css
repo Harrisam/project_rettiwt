@@ -129,9 +129,26 @@ nav li a{
 }
 
 .container{
-	color: salmon;
+	display: -webkit-flex;
+	display: flex;
+	width:77%;
+	margin: 20px auto;
+	font-color: salmon;
 }
 
+.side_column{
+	display: block;
+	float:left;
+}
+
+.section{
+	
+}
+
+.tweetfeed{
+	display: block;
+	float:right;
+}
 
 h2{
 	margin-top: 150px;
